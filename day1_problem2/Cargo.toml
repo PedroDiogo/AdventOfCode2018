@@ -1,0 +1,6 @@
+[package]
+name = "day1_problem2"
+version = "0.1.0"
+authors = ["Pedro Diogo"]
+
+[dependencies]
