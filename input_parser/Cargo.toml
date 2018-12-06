@@ -1,0 +1,6 @@
+[package]
+name = "input_parser"
+version = "0.1.0"
+authors = ["Pedro Diogo <158898+PedroDiogo@users.noreply.github.com>"]
+
+[dependencies]
